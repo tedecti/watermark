@@ -1,0 +1,12 @@
+{
+    "name": "vendor/config",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Config\\": "src/"
+        }
+    },
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
